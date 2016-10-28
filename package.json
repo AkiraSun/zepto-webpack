@@ -2,6 +2,7 @@
   "name": "zepto-webpack",
   "version": "1.2.0",
   "description": "Webpack zepto.",
+  "author": "dai.peng <15858208586@163.com>",
   "main": "zepto.js",
   "author": "",
   "license": "MIT",
