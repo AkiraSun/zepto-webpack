@@ -1,5 +1,5 @@
 {
-  "name": "webpack-zepto",
+  "name": "zepto-webpack",
   "version": "1.2.0",
   "description": "Webpack zepto.",
   "main": "zepto.js",
